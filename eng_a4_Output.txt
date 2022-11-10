@@ -1,0 +1,105 @@
+Username : katebowers
+Name     : Kate Bowers
+Group    : sysadmin
+==========
+Changing password for user katebowers.
+passwd: all authentication tokens updated successfully.
+==========
+Username : user1
+Name     : User Name
+Group    : normal
+==========
+Changing password for user user1.
+passwd: all authentication tokens updated successfully.
+==========
+Username : apple1
+Name     : Apple Core
+Group    : hr
+==========
+Changing password for user apple1.
+passwd: all authentication tokens updated successfully.
+==========
+Username : blueberry1
+Name     : Blue Berry
+Group    : sysadmin
+==========
+Changing password for user blueberry1.
+passwd: all authentication tokens updated successfully.
+==========
+Username : cherry1
+Name     : Cherry Seed
+Group    : normal
+==========
+Changing password for user cherry1.
+passwd: all authentication tokens updated successfully.
+==========
+Username : dragonfruit1
+Name     : Dragonfruit Slice
+Group    : hr
+==========
+Changing password for user dragonfruit1.
+passwd: all authentication tokens updated successfully.
+==========
+Username : fig1
+Name     : Fig Dried
+Group    : sysadmin
+==========
+Changing password for user fig1.
+passwd: all authentication tokens updated successfully.
+==========
+Username : grape1
+Name     : Grape Juice
+Group    : normal
+==========
+Changing password for user grape1.
+passwd: all authentication tokens updated successfully.
+==========
+Username : kiwi1
+Name     : Kiwi Tart
+Group    : hr
+==========
+Changing password for user kiwi1.
+passwd: all authentication tokens updated successfully.
+==========
+Username : lemon1
+Name     : Lemon Wedge
+Group    : sysadmin
+==========
+Changing password for user lemon1.
+passwd: all authentication tokens updated successfully.
+==========
+Username : mango1
+Name     : Mango Slice
+Group    : normal
+==========
+Changing password for user mango1.
+passwd: all authentication tokens updated successfully.
+==========
+Username : orange1
+Name     : Orange Peel
+Group    : hr
+==========
+Changing password for user orange1.
+passwd: all authentication tokens updated successfully.
+==========
+Username : pear1
+Name     : Pear Juice
+Group    : sysadmin
+==========
+Changing password for user pear1.
+passwd: all authentication tokens updated successfully.
+==========
+Username : raspberry1
+Name     : Raspberry Pi
+Group    : normal
+==========
+Changing password for user raspberry1.
+passwd: all authentication tokens updated successfully.
+==========
+Username : strawberry1
+Name     : Strawberry Smoothie
+Group    : hr
+==========
+Changing password for user strawberry1.
+passwd: all authentication tokens updated successfully.
+==========
